@@ -34,19 +34,19 @@ public class LinkedListTest {
 		System.out.println();
 		
 		
-		listaLigada.remove(5);
+		listaLigada.remove(0);
 		System.out.println(listaLigada.toString());
 		System.out.println("tamanho: " + listaLigada.size());
 		
-		listaLigada.remove(4);
+		listaLigada.remove(1);
 		System.out.println(listaLigada.toString());
 		System.out.println("tamanho: " + listaLigada.size());
 		
-		listaLigada.remove(3);
+		listaLigada.remove(1);
 		System.out.println(listaLigada.toString());
 		System.out.println("tamanho: " + listaLigada.size());
 		
-		listaLigada.remove(2);
+		listaLigada.remove(1);
 		System.out.println(listaLigada.toString());
 		System.out.println("tamanho: " + listaLigada.size());
 		
