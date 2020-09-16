@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author nathanael
+ *
+ */
+module javaSolutions {
+}
